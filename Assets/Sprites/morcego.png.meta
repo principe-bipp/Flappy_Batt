@@ -153,12 +153,12 @@ TextureImporter:
       name: morcego_0
       rect:
         serializedVersion: 2
-        x: 12
-        y: 206
-        width: 140
-        height: 80
+        x: 360
+        y: 198
+        width: 143
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,12 +175,12 @@ TextureImporter:
       name: morcego_1
       rect:
         serializedVersion: 2
-        x: 178
-        y: 213
-        width: 161
-        height: 75
+        x: 180
+        y: 195
+        width: 157
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -197,12 +197,12 @@ TextureImporter:
       name: morcego_2
       rect:
         serializedVersion: 2
-        x: 358
-        y: 200
-        width: 144
-        height: 95
+        x: 13
+        y: 193
+        width: 137
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -216,37 +216,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: morcego_3
-      rect:
-        serializedVersion: 2
-        x: 539
-        y: 196
-        width: 137
-        height: 103
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7051af632d070eb20800000000000000
-      internalID: 3161650986581890311
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: morcego_4
       rect:
         serializedVersion: 2
-        x: 735
-        y: 195
-        width: 131
-        height: 108
+        x: 536
+        y: 202
+        width: 137
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -263,12 +241,12 @@ TextureImporter:
       name: morcego_5
       rect:
         serializedVersion: 2
-        x: 89
-        y: 37
-        width: 143
-        height: 98
+        x: 725
+        y: 196
+        width: 137
+        height: 112
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -285,12 +263,12 @@ TextureImporter:
       name: morcego_6
       rect:
         serializedVersion: 2
-        x: 252
-        y: 48
-        width: 159
-        height: 82
+        x: 652
+        y: 28
+        width: 137
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -307,12 +285,12 @@ TextureImporter:
       name: morcego_7
       rect:
         serializedVersion: 2
-        x: 446
-        y: 49
-        width: 163
-        height: 75
+        x: 448
+        y: 29
+        width: 159
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -329,12 +307,12 @@ TextureImporter:
       name: morcego_8
       rect:
         serializedVersion: 2
-        x: 648
-        y: 45
-        width: 145
-        height: 74
+        x: 254
+        y: 33
+        width: 156
+        height: 103
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -347,11 +325,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: morcego_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 40
+        width: 142
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db79a2b8f83e6dc44b96f02a77568d25
+      internalID: 290208341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 84dd5b5701ce44f4cb78aa27d05449e6
     internalID: 0
     vertices: []
     indices: 
@@ -370,6 +370,7 @@ TextureImporter:
       morcego_6: -6477946197173182470
       morcego_7: 8494334659869143362
       morcego_8: 7034496133731615048
+      morcego_9: 290208341
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
